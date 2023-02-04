@@ -1,0 +1,6 @@
+要替换的ch文件扔进去
+例如：把压缩包里的ch文件夹扔进VideoSubFinder_XXX/Release_x64/settinng目录
+
+最后改一下settings下的general.cfg，打开eng改成zh_cn
+一定要保存为UTF-8编码，要不然不识别打不开
+注意：一定要保存为UTF-8编码，要不然不识别打不开
